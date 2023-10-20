@@ -36,7 +36,7 @@ public class Practical17 extends Application {
                 else if(n==1)
                         {
                             FileInputStream fin;
-                            //fin = new FileInputStream("C:/Users/SI/OneDrive/Desktop/BE SEM 4/05_ OBJECT ORRIENTED PROGRAMMING -1/220133107008/O.jpg");
+                            //fin = new FileInputStream("C:/Users/SI/OneDrive/Desktop/BE SEM 4/05_ OBJECT ORIENTED PROGRAMMING -1/220133107008/O.jpg");
                             fin = new FileInputStream("C://Users//SI//OneDrive//Desktop//java_image/O.gif");
                             img = new Image(fin);
                             img_view = new ImageView(img);
